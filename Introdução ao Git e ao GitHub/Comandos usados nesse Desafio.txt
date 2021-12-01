@@ -1,0 +1,8 @@
+Para importar os arquivos do computador para nuvem do Git e GitHub foi usado os seguintes comandos:
+* git add: usado para adicionar
+
+* git commit - m: usado par inserir um comentário(aprendir que é muito importante os comentário)
+
+* git push origin main: usado para empurar os arquivos par a nuvem.
+
+*git status: para saber se tem algum arquivo para commitar. 
